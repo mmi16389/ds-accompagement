@@ -1,0 +1,12 @@
+[submodule "squelette-front"]
+	path = squelette-front
+	url = https://git.digital.cnamts.fr/P1/proto-ameli/squelette-front.git
+[submodule "menu-front"]
+	path = menu-front
+	url = https://git.digital.cnamts.fr/P1/proto-ameli/menu-front.git
+[submodule "accueil-front"]
+	path = accueil-front
+	url = https://git.digital.cnamts.fr/P1/proto-ameli/accueil-front.git
+[submodule "satisfaction-cli-front"]
+	path = satisfaction-cli-front
+	url = https://git.digital.cnamts.fr/P1/proto-ameli/satisfaction-cli-front.git
